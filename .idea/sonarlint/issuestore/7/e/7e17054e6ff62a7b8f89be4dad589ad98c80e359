@@ -1,0 +1,17 @@
+
+E
+java:S3740Z"/Provide the parametrized type for this generic.(…ìá«
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+k
+java:S1149K"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
+f
+java:S1149Z"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(…ìá«
+f
+java:S1149{"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(õñ™ñ
+g
+java:S1149‚"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(İ°¹¾
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ê›êùÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ƒ¬¶êùÿÿÿÿ
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(„‘ÿÇ
